@@ -1,6 +1,6 @@
-# Hallo, my name is [**Sergei Tian**](https://github.com/STian-88)
+# Hello, my name is [**Sergei Tian**](https://github.com/STian-88)
 
-> ## I am studying the program "Fullstack" on an educational platform "Netology"
+> ## I am studying the program "Fullstack developer" on an educational platform "Netology"
 <br />
 
 ### Skills and Tools:
