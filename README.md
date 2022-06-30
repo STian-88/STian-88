@@ -1,6 +1,6 @@
 # Hello, my name is [**Sergei Tian**](https://github.com/STian-88)
 
-> ## I am studying the program "Fullstack developer" on an educational platform "Netology"
+> ## I'm studying Fullstack.
 <br />
 
 ### Skills and Tools:
@@ -9,6 +9,8 @@
 [<img align='left' alt='GIT' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>](https://git-scm.com/)
 [<img align='left' alt='Python' width='32px' src='https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png'/>](https://www.w3.org/XML/)
 [<img align='left' alt='Python' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png'/>](https://www.json.org/json-en.html)
+[<img align='left' alt='Python' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'/>]()
+[<img align='left' alt='Python' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/>]()
 
 <br />
 <br />
